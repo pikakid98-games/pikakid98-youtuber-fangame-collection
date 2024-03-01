@@ -9,3 +9,7 @@ Markiplier's Mansion
 \
 JackSepticEye: Into The System
 
+### <b><u>Building requirements</b></u>
+
+[GameMaker Studio 1](https://gminstall.yoyogames.com/downloads/gm-studio/GMStudio-Installer-1.4.9999.exe)
+[Execute Shell](https://marketplace.gamemaker.io/assets/575/execute-shell)
