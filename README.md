@@ -3,7 +3,7 @@ A collection of fangames made for Youtubers such as Markiplier and JackSepticEye
 
 ### <b><u>Games</b></u>
 
-Markiplier's Mansion
+[Markiplier's Mansion](https://github.com/Git-Pikakid98/markipliers-mansion-demo)
 \
 8-Bit Markiplier
 \
